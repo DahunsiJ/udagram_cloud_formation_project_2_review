@@ -13,3 +13,6 @@ Udacity Cloud Training Exercise
 chmod +x create.sh
 
 chmod +x update.sh
+
+
+URL to LoadBlancer: udagr-WebAp-BL3QBB5OSKKN-1021154089.us-west-2.elb.amazonaws.com
